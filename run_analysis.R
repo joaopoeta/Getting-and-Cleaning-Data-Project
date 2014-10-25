@@ -3,7 +3,7 @@
 ############################################
 
 # Set the path to the Folder, where the data to be analyzed is
-setwd("~/Desktop/DataScientist/Getting_and_Cleaning_Data/DataFiles/UCI_HAR_Dataset")
+setwd("./UCI_HAR_Dataset")
 
 
 
