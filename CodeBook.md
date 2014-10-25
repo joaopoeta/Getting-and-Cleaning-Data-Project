@@ -20,7 +20,7 @@ LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS and WALKING_UPSTAIRS.
 
 - From the Column=3 to the Column=81 (average features). Each os these columns contain the AVERAGE of each extracted variable from the original Dataset (these extracted variables are only the measurements on the mean and standard deviation for each measurement). In my „tidy_data.txt“ the column names are:
 
-[03] "tBodyAcc-mean()-X"              
+[03] "tBodyAcc-mean()-X"
 [04] "tBodyAcc-mean()-Y"
 [05] "tBodyAcc-mean()-Z"
 [06] "tBodyAcc-std()-X"
@@ -29,8 +29,8 @@ LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS and WALKING_UPSTAIRS.
 [09] "tGravityAcc-mean()-X"
 [10] "tGravityAcc-mean()-Y"
 [11] "tGravityAcc-mean()-Z"
-[12] "tGravityAcc-std()-X"            
-[13] "tGravityAcc-std()-Y"             
+[12] "tGravityAcc-std()-X"
+[13] "tGravityAcc-std()-Y"
 [14] "tGravityAcc-std()-Z"             
 [15] "tBodyAccJerk-mean()-X"          
 [16] "tBodyAccJerk-mean()-Y"           
